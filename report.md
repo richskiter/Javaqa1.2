@@ -7,12 +7,13 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* <ссылка на описание дефекта>
+* [Некорректная валидация при вводе 19-символьного значения](https://github.com/richskiter/Javaqa1.2/issues/1)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
 * [Тест-кейсы](https://github.com/richskiter/Javaqa1.2/blob/master/test-cases.md)
+* [Баг-репорт](https://github.com/richskiter/Javaqa1.2/issues/1)
 
 В качестве тестовых данных использовались сгенерированные сервисом [Freeformatter](https://www.freeformatter.com/credit-card-number-generator-validator.html) номера кредитных карт:
 
