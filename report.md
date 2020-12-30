@@ -12,7 +12,7 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* [Тест-кейсы]()
+* [Тест-кейсы](https://github.com/richskiter/Javaqa1.2/blob/master/test-cases.md)
 
 В качестве тестовых данных использовались сгенерированные сервисом [Freeformatter](https://www.freeformatter.com/credit-card-number-generator-validator.html) номера кредитных карт:
 
