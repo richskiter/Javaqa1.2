@@ -46,6 +46,9 @@ American Express (AMEX):
 * 343961076091502
 * 372533950047357
 
+Diners Club - International
+* 36800564506393
+
 Тестирование производилось в следующем окружении:
 * Windows 10 x64
 * openjdk version "11.0.9.1" 2020-11-04
